@@ -9,3 +9,7 @@ gem "rspec"
 group :development do
 gem "pry"
 end
+
+group :development do
+gem "rspec"
+end
